@@ -1,2 +1,2 @@
-# Portugol
- positivo, negativo ou zero.
+# Portuggol
+Essa pastem contem 19  programas na linguagem portugol
