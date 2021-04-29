@@ -1,2 +1,1 @@
-# Portuggol
-Essa pastem contem 19  programas na linguagem portugol
+#  Essa pastem contem 19 programas na linguagem portugol
